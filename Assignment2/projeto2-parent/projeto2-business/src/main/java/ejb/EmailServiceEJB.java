@@ -48,7 +48,7 @@ public void sendAccountActivationLinkToBuyer() {
         String host = "smtp.gmail.com";// Gmail
         int port = 465;
         String serviceUsername = "mybayis1920@gmail.com";
-        String servicePassword = "mybayis2019";// Our Gmail password
+        String servicePassword = *Our Gmail password*;// 
 
         Properties props = new Properties();
         props.put("mail.smtp.user", serviceUsername);
